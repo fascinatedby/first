@@ -16,6 +16,8 @@
 </html>
 <p>该段文字从左到右显示。</p>
 <p><bdo dir="rtl">该段落文字从右到左显示。</bdo></p>  
+<hr>
+<p>我最喜欢的人是<del>小爽</del>？错是<pre>  <ins>郑爽</ins>/pre></p>
 
 
 
